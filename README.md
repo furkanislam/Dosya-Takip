@@ -8,8 +8,6 @@
 
 ![GorevEklemePaneli](https://github.com/furkanislam/Dosya-Takip/assets/65629988/74a34b9a-9611-40b1-8006-5d695df1fca3)
 
-![ÇalışanBilgiler](https://github.com/furkanislam/Dosya-Takip/assets/65629988/f1af41a3-0191-48ee-8444-753f27d62c8d)
-
 ![AylıkGider](https://github.com/furkanislam/Dosya-Takip/assets/65629988/673ded6d-25b3-4c56-a5b3-de83ca2f62c3)
 
 ![İşTürüEkleme](https://github.com/furkanislam/Dosya-Takip/assets/65629988/aecfdb99-b250-4b43-adc0-259f7f6a393d)
